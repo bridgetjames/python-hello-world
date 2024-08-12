@@ -4,7 +4,7 @@
 # to the console (the panel on the right)
 
 print("Hello");
-
+print("'Hello, World'")
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
